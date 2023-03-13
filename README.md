@@ -1,11 +1,7 @@
 # DAVSploit
 DAV Vulnerbility
 
-╔╦╗╔═╗╦  ╦╔═╗┌─┐┬  ┌─┐┬┌┬┐
- ║║╠═╣╚╗╔╝╚═╗├─┘│  │ ││ │ 
-═╩╝╩ ╩ ╚╝ ╚═╝┴  ┴─┘└─┘┴ ┴ 
-
-
+[DAVSploit]
 
 <center><img src="https://github.com/darkseid-security/DAVSploit/blob/main/IMG/davsploit.png"></center>
 

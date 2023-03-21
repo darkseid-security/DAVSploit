@@ -6,7 +6,7 @@ DAV Vulnerbility
 <center><img src="https://github.com/darkseid-security/DAVSploit/blob/main/IMG/davsploit.png"></center>
 
 
-DAVSploit tool is for automating checking for PUT,MOVE,COPY and DELETE HTTP methods
+DAVSploit tool is for automating checking for PUT,MOVE,COPY,DELETE,PATCH,CONNECT and TRACE HTTP methods
 aswell as automating webdav exploitation.
 
 Features

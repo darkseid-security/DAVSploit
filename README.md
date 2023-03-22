@@ -18,8 +18,6 @@ Features
 - Three diffrent payload types PHP,JSP,ASPX and HTML
 - Colored UI
 - HTML payload includes deface web page
-- [*New Feature] Vulnerbility scanning for web services
-
 
 Davsploit V2
 ==============
